@@ -21,6 +21,7 @@ See to [CONTRIBUTING](CONTRIBUTING.md) file.
 ## How Contibuting
 
 - First register an account for `github`.
+- Fork the `RedMaple` to your project.
 - Use git clone `RedMaple` url.
 - Submit and push code to `dev` branch of `RedMaple`.
 - Create pull request to `dev` branch of `RedMaple`.
