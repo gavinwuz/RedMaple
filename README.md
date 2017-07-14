@@ -1,10 +1,10 @@
 # RedMaple
 
-RedMaple is a branch of `Scut` game engine, upgraded to .Net Core platform.
+RedMaple is a branch of `Scut` game engine, upgraded to dotnet core v1.x platform.
 
 ## Requirements
 
-On .Net Core 1.0 platform
+On dotnet core v1.4.x platform.
 
 ## Features
 
@@ -13,11 +13,24 @@ On .Net Core 1.0 platform
 * MongoDB database supported;
 * News RPC library;
 
+## Contibuting
+
+See to [CONTRIBUTING](CONTRIBUTING.md) file.
+
+
+## How Contibuting
+
+- First register an account for `github`.
+- Use git clone `RedMaple` url.
+- Submit and push code to `dev` branch of `RedMaple`.
+- Create pull request to `dev` branch of `RedMaple`.
+
+
 ## Develop Roadmap
 
 ### Version 0.1.0 
 
-* Upgraded scource to Dotnet core framework;
+* Upgraded old `scut` source to dotnet core framework;
 
 
 ### Version 0.2.0 
